@@ -1,0 +1,12 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.dll
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.dll
+E:\dotnetclasses\frontend\DotnetConsoleApp\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.pdb
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.pdb
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.CopyComplete
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.dll
+E:\dotnetclasses\frontend\11-08-2020\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.pdb
