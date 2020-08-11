@@ -1,0 +1,13 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\bin\Debug\WinCalculator.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\bin\Debug\ClassCalculator.dll
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\bin\Debug\ClassCalculator.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.CopyComplete
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\WinCalculator\WinCalculator\obj\Debug\WinCalculator.pdb
