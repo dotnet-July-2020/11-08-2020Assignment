@@ -9,6 +9,7 @@ namespace ClassCalculator
     [Serializable]
     public class Class1
     {
+        
         public int Num1
         {
             get;
